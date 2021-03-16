@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BindingDemo</string>
+    <string name="name">Enter Name</string>
+    <string name="what_is_your_nickname">Enter Nickname</string>
+    <string name="done">Done</string>
+    <string name="bio">Bio</string>
+    <string name="star">star</string>
+    <string name="Enter_Bio">Enter Bio</string>
+</resources>
